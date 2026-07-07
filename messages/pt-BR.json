@@ -1,0 +1,168 @@
+{
+  "meta": {
+    "title": "Yates Travel | Criando Aventuras Inesquecíveis",
+    "description": "A Yates Travel é uma agência de viagens pessoal liderada por Brian Yates. Cruzeiros, resorts all-inclusive, férias na Disney e roteiros sob medida, tudo planejado para você, sem estresse e sem custo extra."
+  },
+  "nav": {
+    "services": "Serviços",
+    "destinations": "Destinos",
+    "about": "Sobre",
+    "reviews": "Avaliações",
+    "contact": "Contato",
+    "cta": "Planejar minha viagem"
+  },
+  "hero": {
+    "badge": "Agência de viagens completa",
+    "title": "Criando aventuras inesquecíveis",
+    "subtitle": "De cruzeiros dos sonhos a praias all-inclusive, Brian Yates planeja cada detalhe da sua viagem para você só se preocupar em aproveitar.",
+    "ctaPrimary": "Começar a planejar",
+    "ctaSecondary": "Explorar destinos",
+    "highlight1": "Roteiros personalizados",
+    "highlight2": "Especialista em cruzeiros",
+    "highlight3": "Suporte antes, durante e depois da viagem",
+    "imageAlt": "Mar azul-turquesa e praia de areia branca ao pôr do sol"
+  },
+  "partners": {
+    "title": "Viagens com marcas que você conhece e ama",
+    "subtitle": "Reservas com companhias de cruzeiro e resorts de confiança, além de tarifas especiais para militares."
+  },
+  "services": {
+    "title": "O que fazemos por você",
+    "subtitle": "Uma pessoa que cuida de tudo: cotações, reservas, documentos e dicas, com a atenção que nenhum site grande vai te dar.",
+    "cruises": {
+      "title": "Cruzeiros",
+      "description": "Caribe, Bahamas, Virgin Voyages e muito mais. Encontramos o navio, a cabine e a rota certos para o seu estilo e orçamento."
+    },
+    "resorts": {
+      "title": "Resorts all-inclusive",
+      "description": "Sandals, Beaches e outros resorts de praia com tudo incluído. Ideais para casais, famílias e luas de mel."
+    },
+    "disney": {
+      "title": "Férias na Disney",
+      "description": "Parques, hotéis e cruzeiros Disney planejados para aproveitar ao máximo cada dia de magia, para crianças e adultos."
+    },
+    "custom": {
+      "title": "Roteiros sob medida",
+      "description": "Conte qual é a viagem dos seus sonhos e montamos tudo do zero: voos, hotéis, transfers e experiências feitas para você."
+    },
+    "military": {
+      "title": "Tarifas para militares",
+      "description": "Tarifas especiais e orientação honesta para militares, veteranos e suas famílias."
+    },
+    "groups": {
+      "title": "Viagens em grupo e família",
+      "description": "Casamentos, aniversários, viagens com amigos: organizamos tudo para o grupo chegar junto e feliz."
+    }
+  },
+  "destinations": {
+    "title": "Destinos populares para te inspirar",
+    "subtitle": "Alguns dos lugares mais pedidos pelos viajantes. Não achou o seu? Planejamos viagens para qualquer lugar do mundo.",
+    "cta": "Perguntar sobre um destino",
+    "caribbean": { "name": "Caribe", "tag": "Praias e cruzeiros" },
+    "bahamas": { "name": "Nassau, Bahamas", "tag": "Parada clássica de cruzeiro" },
+    "cancun": { "name": "Cancún, México", "tag": "Paraíso all-inclusive" },
+    "orlando": { "name": "Orlando, EUA", "tag": "Disney e parques" },
+    "santorini": { "name": "Santorini, Grécia", "tag": "Escapada romântica" },
+    "paris": { "name": "Paris, França", "tag": "Cidade Luz" },
+    "rome": { "name": "Roma, Itália", "tag": "História e gastronomia" },
+    "maldives": { "name": "Maldivas", "tag": "Luxo sobre as águas" },
+    "bali": { "name": "Bali, Indonésia", "tag": "Cultura e natureza" }
+  },
+  "steps": {
+    "title": "Planejar sua viagem é fácil",
+    "subtitle": "Três passos simples entre você e a sua próxima aventura.",
+    "step1": {
+      "title": "Conte o seu sonho",
+      "description": "Entre em contato e diga para onde quer ir, com quem, quando e qual o seu orçamento."
+    },
+    "step2": {
+      "title": "Montamos a sua viagem",
+      "description": "Brian pesquisa as melhores opções e envia uma proposta clara, sem compromisso."
+    },
+    "step3": {
+      "title": "Viaje sem preocupação",
+      "description": "Cuidamos das reservas e ficamos ao seu lado antes, durante e depois da viagem."
+    }
+  },
+  "about": {
+    "eyebrow": "A pessoa por trás da agência",
+    "title": "Conheça Brian Yates",
+    "role": "Fundador e consultor de viagens",
+    "p1": "A Yates Travel nasceu de uma ideia simples: planejar uma viagem deveria ser tão gostoso quanto a própria viagem. Brian dedica tempo para entender o que você quer, cuida de cada detalhe e trata as suas férias como se fossem dele.",
+    "p2": "Baseado no Arkansas e atendendo viajantes de qualquer lugar, Brian é especialista em cruzeiros, resorts all-inclusive e férias na Disney, trabalhando com marcas como Virgin Voyages, Sandals, Beaches e Disney Travel.",
+    "point1": "Atendimento direto e pessoal sempre que você precisar",
+    "point2": "Planejamento sem estresse, da primeira cotação até a volta para casa",
+    "point3": "Suporte de verdade se algo mudar no caminho",
+    "cta": "Falar com o Brian",
+    "imageAlt": "Brian Yates, fundador da Yates Travel, sentado em frente a uma fonte"
+  },
+  "reviews": {
+    "title": "O que os viajantes dizem",
+    "subtitle": "Avaliações reais do Facebook.",
+    "recommends": "recomenda a Yates Travel",
+    "source": "Ver todas as avaliações no Facebook",
+    "r1": {
+      "name": "Lori Taylor-Dixon",
+      "text": "Minha experiência com o Brian na reserva do meu cruzeiro foi excelente. Ele atendeu a todos os meus desejos e necessidades. Aproveitei tudo sem estresse e sem complicações. Vou usar a agência dele de novo."
+    },
+    "r2": {
+      "name": "Rose Turner",
+      "text": "Minha experiência com o Brian foi muito agradável e proveitosa. Ele me deu atenção total para garantir que tudo fosse tranquilo. Reservaria com ele a qualquer momento."
+    },
+    "r3": {
+      "name": "Amy Rayne",
+      "text": "Simpático, profissional e claramente se importa em ajudar as pessoas a planejar ótimas viagens. Vale muito a pena procurar se você precisa de ajuda com uma viagem."
+    },
+    "r4": {
+      "name": "Ronald Perry Jr",
+      "text": "O Brian fez um trabalho fenomenal no meu cruzeiro este ano. Recomendo muito."
+    },
+    "r5": {
+      "name": "Nancy Martin",
+      "text": "O Brian da Yates Travel é incrível. Ele cuidou de tudo nas nossas férias para que não precisássemos nos preocupar com nada. Recomendo para qualquer pessoa."
+    }
+  },
+  "contact": {
+    "title": "Vamos planejar a sua próxima viagem",
+    "subtitle": "Envie uma mensagem e o Brian retorna com ideias e uma cotação sem compromisso.",
+    "form": {
+      "name": "Seu nome",
+      "namePlaceholder": "ex.: João Silva",
+      "email": "E-mail",
+      "emailPlaceholder": "voce@email.com",
+      "phone": "Telefone (opcional)",
+      "phonePlaceholder": "ex.: (11) 99999-9999",
+      "message": "A viagem dos seus sonhos",
+      "messagePlaceholder": "Conte para onde gostaria de ir, quando e com quantas pessoas…",
+      "submit": "Enviar mensagem",
+      "success": "Seu aplicativo de e-mail vai abrir com a mensagem pronta para enviar. Obrigado!",
+      "errors": {
+        "name": "Informe o seu nome",
+        "email": "Informe um e-mail válido",
+        "message": "Conte um pouco sobre a viagem (mínimo de 10 caracteres)"
+      }
+    },
+    "info": {
+      "title": "Ou fale diretamente",
+      "phone": "Telefone",
+      "email": "E-mail",
+      "address": "Endereço",
+      "addressValue": "PO Box 32, Black Oak, AR 72414, Estados Unidos",
+      "social": "Acompanhe as aventuras"
+    }
+  },
+  "footer": {
+    "tagline": "Planejamento de viagens pessoal: cruzeiros, resorts, Disney e roteiros sob medida.",
+    "quickLinks": "Links rápidos",
+    "contactTitle": "Contato",
+    "followUs": "Redes sociais",
+    "rights": "Todos os direitos reservados.",
+    "createdBy": "Criado por"
+  },
+  "localeSwitcher": {
+    "label": "Idioma",
+    "en": "English",
+    "pt-BR": "Português",
+    "es": "Español"
+  }
+}
