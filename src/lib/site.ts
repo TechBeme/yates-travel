@@ -4,21 +4,20 @@ const unsplash = (id: string, w = 1200) =>
 export const site = {
   name: "Yates Travel",
   url: "https://yates.techbe.me",
-  phone: "870-210-4945",
-  phoneHref: "tel:+18702104945",
-  email: "Yates-Travel@outlook.com",
-  emailBrian: "Brian.Yates@Yates-Travel.com",
+  phone: "(555) 000-0000",
+  phoneHref: "tel:+15550000000",
+  email: "rafaelvieira@techbe.me",
+  emailBrian: "rafaelvieira@techbe.me",
   address: {
-    street: "PO Box 32",
-    city: "Black Oak",
-    state: "AR",
-    zip: "72414",
-    country: "US",
+    street: "Insert your address here",
+    city: "",
+    state: "",
+    zip: "",
+    country: "",
   },
-  instagram: "https://www.instagram.com/yates_travel/",
-  facebook: "https://www.facebook.com/yatestravelar/",
-  facebookReviews:
-    "https://www.facebook.com/yatestravelar/reviews/?id=100086566456573&sk=reviews",
+  instagram: "https://techbe.me/",
+  facebook: "https://techbe.me/",
+  facebookReviews: "https://techbe.me/",
   founder: "Brian Yates",
 } as const;
 
